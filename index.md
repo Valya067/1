@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset = "UTF-8">
+	<title>Музыка в борьбе за жизнь и справедливость.</title>
+	<link href = "page.css"  rel = "stylesheet">  <!-- подключаем нашу таблицу стилей -->
+	</head>
+	<body>	
+<div id = "wrap">
+	<header></header>
+</div>
+	<div class = "title"> Музыкальные произведения Великой Отечественной войны  </div>
+	<ul class = "menu">
+		<li><a href = "./контакты.html" style="color: white">Контакты</a></li>
+		
+		
+	</ul>
 
-You can use the [editor on GitHub](https://github.com/Valya067/1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<h1> Музыка в годы Великой Отечественной войны </h1>
+		<h5> Победы нашей страны. </h5> 
+		
+		
+		<p>Каждую весну многие люди планеты живут в преддверии самого светлого праздника – праздника  победы. Тяжело, очень тяжело далась она нашему народу. Не было семьи, которую не затронула бы война. У каждой  своя история и наш долг сохранить память людей, прошедших войну для новых поколений, чтобы они также бережно и уважительно с чувством гордости относились к  Великому празднику Победы.
+С судьбами людей тесно переплетались судьбы песен. Казалось, какие ещё песни, когда идёт война, кругом горе, каждую минуту, смерть смотрит в глаза людям? Не до песен совсем. Но так ли это? 
+Наши ветераны Великой Отечественной войны и все солдаты тех военных лет пели песни. Потому что песни объединяли силы солдат, вселяли в них уверенность, мужество, стойкость, поднимали боевой дух. Разные песни пели солдаты в зависимости от сложившихся обстоятельств, но именно песня была верным спутником и отдушиной во время долгих четырёх лет войны.
+</p>
+        <h2> Песни Великой Отечественной войны <h2>
+		
+		<h6>Изучение песен военных лет является актуальной и важной проблемой современности. 
+Актуальность усиливается тем, что в военной песне заложена потенциальная возможность формирования чувства сопричастности к огромному историческому пласту предшествующих поколений, к разделению исторической судьбы с предшествующими поколениями.
+Военная песня всегда была явлением, которое объединяет нацию и в этом ее огромная сила. Но, помимо глубоких смыслов, она несет в себе заряд бодрости и оптимизма, гамму лирических чувств, обостренных разлукой и возможностью смерти. Все это духовные ценности, осознаваемые и разделяемые многими поколениями. Именно они никогда не потеряют своей актуальности.
+Песни военных лет влияли на жизнь и действия человека не только во времена Великой Отечественной войны, но и в наше современной время.
+</h6>
+		
+<div class = "men">
+<audio id=audio src="Lev_Leshhenko_-_Den_Pobedy_48408219.mp3"></audio>
+<img src="project_4__1_-removebg-preview.EOEVx-removebg-preview.png" onclick="this.src = (this.src.indexOf ('.png') > 0) ? 'gg15329b1274.gif' : '3.reYjy.png';if(audio.paused){audio.currentTime=0;audio.play()}else{audio.pause()}">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+</div>
+		
+		
+<p>		Как написал замечательный поэт Василий Лебедев-Кумач: «После боя сердце просит музыки вдвойне». 
+Каждый из нас задавался вопросом, что помогало и давало сил солдатам на войне. Конечно же, любовь, дружба, поддержка товарищей и надежда.
+Песня занимала не последнее место для солдат. Она помогала пройти им весь боевой путь, придавала сил тем, кто уставал, несла веру в победу, и вообще, с их помощью, солдаты просто отдыхали душой. Песни военных лет стали прекрасным памятником героизму русского народа в борьбе с фашизмом. В них соединились и горечь потерь, и гордость побед. Песни военных лет весьма разнообразны по своему характеру: героические и шуточные, боевые и лирические… Они распространялись очень быстро, передавались из уст в уста, нередко перелетали через линию фронта. 
+</p>
+<p>Особая глава в песенной летописи Великой Отечественной войны – песни о партизанах. Народные мстители боролись против врага в необычной обстановке – в дремучих лесах, среди непроходимых болот.
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Здесь редко бывали условия для движения в строю с песней. Поэтому посвящались партизанам большей частью песни не походные, не маршевые, а протяжные, повествовательные или же лирические. Пример - «Ой, туманы мои, растуманы». Песня звучала как молитва, как клятва, как надежда.
+</p>
+		 
+        <div class = "msic">
+		<a class="link" href=" ./база2.html" target=""   > </a>
+		</div>
+	
+		
+	
+	
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Valya067/1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
